@@ -1,0 +1,29 @@
+.logo {
+    height: 100px;
+    width: auto;
+}
+
+.footer {
+    background-color: #0a1424;
+    margin-top: 40px;
+    display: flex;
+    justify-content: end;
+}
+
+.common {
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.pic {
+    width: 220px;
+    height: 70px;
+    margin-left: 20px;
+}
+
+.line {
+    margin-left: 550px;
+    text-align: center;
+
+}
